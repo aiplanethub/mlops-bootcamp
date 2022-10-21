@@ -99,7 +99,7 @@ It's possible that your answers won't match exactly. If it's the case, select th
 
 ## Deadline
 
-The deadline for submitting is 24 May 2022 (Tuesday) 23:00 CET. After that, the form will be closed.
+The deadline for submitting is 13 January 2023 (Friday) 14:00 CET. After that, the form will be closed.
 
 ## Solution
 
